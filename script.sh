@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 echo "Hola amigues, love you all!"
 
